@@ -1,0 +1,22 @@
+{
+  "name": "node-sample-v18.16",
+  "version": "1.0.0",
+  "description": "Sample to test cobalt-log package with node v18.16",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brusmax/node-sample.git"
+  },
+  "dependencies": {
+    "cobalt-log": "git+ssh://git@github.com/freshout-dev/cobalt-log.git#microtimeV3.1.1"
+  },
+  "author": "Enrique Rodriguez - @brusmax - <enrique.rod@envato.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brusmax/node-sample/issues"
+  },
+  "homepage": "https://github.com/brusmax/node-sample#readme"
+}
