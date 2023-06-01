@@ -11,7 +11,7 @@
     "url": "git+https://github.com/brusmax/node-sample.git"
   },
   "dependencies": {
-    "cobalt-log": "git+ssh://git@github.com/freshout-dev/cobalt-log.git#microtimeV3.1.1"
+    "cobalt-log": "git+ssh://git@github.com/freshout-dev/cobalt-log.git#remove-microtime"
   },
   "author": "Enrique Rodriguez - @brusmax - <enrique.rod@envato.com>",
   "license": "ISC",
