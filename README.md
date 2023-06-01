@@ -4,7 +4,9 @@ This project is a test sample to test a node project v18.16 with cobalt-log (v1.
 
 # Setup
 
-Be sure of be using node version v18.16.0
+Be sure of be using the required node version.
+
+In this case, this was testd using versions: v10.24.1 and v18.16 LTD.
 
 ```
   $node -v
@@ -19,6 +21,7 @@ Instal version v18.16.0
   $nvm install v18.16.0
   $nvm use v18.16.0
 ```
+The same procedure for any version required, just select the desired one
 
 # Clone Sample 
 Open a terminal and clone the sample project
